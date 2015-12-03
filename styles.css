@@ -1,0 +1,25 @@
+body {
+    margin: 3ex 15%;
+    font-family: helvetica;
+    color: #222;
+}
+
+header code, #contents code {
+    font-size: inherit;
+    border: none;
+    background-color: transparent;
+    color: inherit;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 2ex;
+}
+h2 {
+    margin-top: 3ex;
+    padding-top: 1ex;
+    border-top: 1px solid grey;
+}
+
+dd {
+    margin-left: 3ex;
+}

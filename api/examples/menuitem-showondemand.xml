@@ -1,0 +1,8 @@
+<Item>
+  <ItemType>ShowOnDemand</ItemType>
+  <ShowOnDemandID>P5031</ShowOnDemandID>
+  <ShowOnDemandName>Inside Europe</ShowOnDemandName>
+  <ShowOnDemandURL>http://radio567.vtuner.com/setupapp/radio567/asp/browsexpa/GetShowXML.asp?showid=P5031&amp;gofile=LocationLevelFive-Europe-Germany-AllStations-st526</ShowOnDemandURL>
+  <ShowOnDemandURLBackUp>http://radio5672.vtuner.com/setupapp/radio567/asp/browsexpa/GetShowXML.asp?showid=P5031&amp;gofile=LocationLevelFive-Europe-Germany-AllStations-st526</ShowOnDemandURLBackUp>
+  <BookmarkShow>http://radio567.vtuner.com/setupapp/radio567/asp/browsexpa/AddFav.asp?empty=&amp;showid=P5031</BookmarkShow>
+</Item>

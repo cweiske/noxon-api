@@ -1,0 +1,14 @@
+<Item>
+  <ItemType>Station</ItemType>
+  <StationId>526</StationId>
+  <StationName>Deutsche Welle English Live</StationName>
+  <StationUrl>http://radio567.vtuner.com/setupapp/radio567/asp/func/dynamOD.asp?ex45v=000000004C3B4B60322F&amp;id=526</StationUrl>
+  <StationDesc>DW's English service, bringing you global news from the heart of Europe.</StationDesc>
+  <StationFormat>Public</StationFormat>
+  <StationLocation>Germany</StationLocation>
+  <StationBandWidth>64</StationBandWidth>
+  <StationMime>MP3</StationMime>
+  <Relia>3</Relia>
+  <Bookmark>http://radio567.vtuner.com/setupapp/radio567/asp/browsexpa/AddFav.asp?empty=&amp;stationid=526</Bookmark>
+  <Logo>http://rs2.radiosetup.com/setupapp/setup1/logo/logo-526.jpg</Logo>
+</Item>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<ListOfItems>
+  <ItemCount>-1</ItemCount>
+  <Item>
+    <ItemType>Dir</ItemType>
+    <Title>Lokale Sender - Deutschland</Title>
+    <UrlDir>http://radio567.vtuner.com/setupapp/radio567/asp/browsexpa/navXML.asp?gofile=LocationLevelFour-Europe-Germany&amp;bkLvl=LocationLevelFour-Europe-GermanyOObkLvlTypeOOl</UrlDir>
+    <UrlDirBackUp>http://radio5672.vtuner.com/setupapp/radio567/asp/browsexpa/navXML.asp?gofile=LocationLevelFour-Europe-Germany&amp;bkLvl=LocationLevelFour-Europe-GermanyOObkLvlTypeOOl</UrlDirBackUp>
+  </Item>
+  <Item>
+    <ItemType>Dir</ItemType>
+    <Title>Best of NOXON</Title>
+    <UrlDir>http://radio567.vtuner.com/setupapp/radio567/asp/browsexpa/bestXML.asp</UrlDir>
+    <UrlDirBackUp>http://radio567.vtuner.com/setupapp/radio567/asp/browsexpa/bestXML.asp</UrlDirBackUp>
+  </Item>
+</ListOfItems>
