@@ -5,7 +5,7 @@ rst2html5\
  --bootstrap-css\
  --stylesheet-path=styles.css --embed-stylesheet\
  --title="Noxon gateway API documentation"\
- README.rst noxon-gateway-api-docs.htm
+ README.rst noxon-api.htm
 
 # add current date to rendered docs
-sed -i "s/##UPDATE##/`date -Is`/" noxon-gateway-api-docs.htm
+sed -i "s/##UPDATE##/`date -Is`/" noxon-api.htm
