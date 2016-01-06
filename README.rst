@@ -29,6 +29,7 @@ Devices tested
 * Noxon iRadio cube
 
 
+.. include:: api/servers.rst
 .. include:: api/general-info.rst
 .. include:: api/login.rst
 .. include:: api/menu.rst
