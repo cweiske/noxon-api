@@ -34,6 +34,7 @@ Devices tested
 .. include:: api/login.rst
 .. include:: api/menu.rst
 .. include:: api/menuitems.rst
+.. include:: api/bookmarks.rst
 .. include:: api/firmware.rst
 
 
