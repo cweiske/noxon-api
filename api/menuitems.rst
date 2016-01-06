@@ -50,6 +50,12 @@ Allowed tags:
   URL to use when navigating into the folder
 ``UrlDirBackUp``
   URL to use when ``UrlDir`` returned a HTTP error status code.
+``BookmarkShow``
+  ??? Does it work?
+``NoAudioContent``
+  ???
+
+  Known value: ``true``
 
 
 .. include:: examples/menuitem-dir.xml
@@ -149,7 +155,7 @@ Allowed tags:
 ``Country``
   Country of origin, e.g. "Germany"
 ``ShowMime``
-  Stream file type
+  Stream file type (not a valid MIME type, despite the tag name)
 
   Known values:
 

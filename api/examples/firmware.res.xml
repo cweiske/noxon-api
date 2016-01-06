@@ -1,0 +1,15 @@
+<FirmwareBundle>
+        <BundleVersion>3.8.36.6921</BundleVersion>
+        <DeviceModel>13062</DeviceModel>
+        <Firmware>
+                <ComponentID>0</ComponentID>
+                <FirmwareVersionMajor>3</FirmwareVersionMajor>
+                <FirmwareVersionMinor>8</FirmwareVersionMinor>
+                <FirmwareVersionCNE>0</FirmwareVersionCNE>
+                <FirmwareVersionBuild>6921</FirmwareVersionBuild>
+                <FirmwareURL>http://apps.my-noxon.net/updates/dmp370/files/2009-05-08_NOXON_Cube_firmware_FW6921_HWID13062.bcd</FirmwareURL>
+                <FirmwareSize>0</FirmwareSize>
+                <FirmwareChecksum>0</FirmwareChecksum>
+                <FirmwareFlags>0</FirmwareFlags>
+        </Firmware>
+</FirmwareBundle>

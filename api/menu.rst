@@ -44,7 +44,8 @@ The iRadio devices append a number of GET parameters to each menu URL:
   First entry is ``1``.
 ``enditems``
   Paging: Last menu entry to fetch
-  Default: ``startitems + 9``
+
+  Default: ``startitems + 9`` - ``10``
 
 
 Paging
@@ -77,11 +78,11 @@ A menu ``<ListOfItems>`` can contain the following tags:
 ``<ItemCount>``
   Total number of items. Can be ``-1``.
 
-  The previous item is not counted.
+  The ``Previous`` item is not counted.
 
   Optional.
 ``<Item>``
-  Any number of items.
+  Contains any number of ``<Item>`` tags.
 ``<NoCache>``
   ??? Forces the radio to re-fetch the list when going back to it
   via the back (left arrow) button.
