@@ -24,6 +24,8 @@ by the ``<ItemType>`` tag:
   list is empty, "--leer--" is shown (not going back to main menu).
 ``Previous``
   Link back to the parent folder.
+``Search``
+  Show a search mask with alphanumeric input.
 ``ShowEpisode``
   Single episode from a ``ShowOnDemand`` that you can hear, e.g. a single podcast
   episode.
@@ -35,6 +37,12 @@ by the ``<ItemType>`` tag:
 ``Station``
   An internet radio station (live stream).
 
+Types that yCast knows of, but none of them works at least on iRadio 300:
+
+- ``SearchTextbox``
+- ``SearchButtonGo``
+- ``SearchButtonCancel``
+
 
 Dir
 ===
@@ -43,7 +51,7 @@ A directory in which you can go into.
 Allowed tags:
 
 ``ItemType``
-  ``Dir``  
+  ``Dir``
 ``Title``
   Name to show
 ``UrlDir``
@@ -125,6 +133,26 @@ Allowed tags:
 
 
 .. include:: examples/menuitem-previous.xml
+   :code:
+
+
+Search
+======
+Show a search mask with alphanumeric input (at least on iRadio 300).
+
+Allowed tags:
+
+``ItemType``
+  ``Search``
+``SearchCaption``
+  Title
+``SearchURL``
+  URL to send search request to
+``SearchURLBackUp``
+  Alternative URL
+
+
+.. include:: examples/menuitem-search.xml
    :code:
 
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+<ListOfItems>
+   <NoDataCache>Yes</NoDataCache>
+   <ItemCount>1</ItemCount>
+   <Item>
+     <ItemType>Search</ItemType>
+     <SearchCaption>Suche</SearchCaption>
+     <SearchURL>http://192.168.0.1/usersearch.php?foo=bar</SearchURL>
+     <SearchURLBackUp>http://192.168.0.1/usersearch.php?foo=bar</SearchURLBackUp>
+   </Item>
+</ListOfItems>
